@@ -36,7 +36,7 @@ const UserSchema = new Schema({
 });
 
 //total count of friends
-UserSchema.virtuals('friendCount').get(function() {
+UserSchema.virtual('friendCount').get(function() {
     return this.friends.length
 });
 
