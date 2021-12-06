@@ -5,7 +5,7 @@
 * [Description](#Description)
 * [General Info](#General-Info)
 * [Features](#Features)
-* [Walk _Through_Videos](#Walk-Through-Videos)
+* [Walk Through Videos](#Walk-Through-Videos)
 ## Description
 Using mongoose, this application shows the backend of creating a Social Networking API to CREATE, UPDATE, DELETE Users, Thoughts, Reactions to Thoughts, and Friend Lists.
 ## General Info
